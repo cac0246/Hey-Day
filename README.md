@@ -3,7 +3,7 @@ Auburn tradition "Hey Day"
 ## Description
 "Hey Day" is an Auburn University tradition that started in 1947, to foster a sense of belonging and share with the rest of members of Auburn 
 university community. 
-If you want to know more about "Hey Day" enter to this link:  (http://sga.auburn.edu/hey-day/Links)
+If you want to know more about click here [Hey Day](http://sga.auburn.edu/hey-day/Links)
 
 ## Instructions 
 First, make the script executable with a code like this
